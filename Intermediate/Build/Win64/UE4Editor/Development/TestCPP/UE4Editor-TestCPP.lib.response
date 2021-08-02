@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-TestCPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\TestCPPEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\UE4Editor\Development\TestCPP\TestCPP.cpp.obj"
+"C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\UE4Editor\Development\TestCPP\TestCPPGameModeBase.cpp.obj"
+"C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\UE4Editor\Development\TestCPP\TestCPP.init.gen.cpp.obj"
+"C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\UE4Editor\Development\TestCPP\TestCPPGameModeBase.gen.cpp.obj"
+"C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\UE4Editor\Development\TestCPP\Default.rc2.res"
+/OUT:"C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\UE4Editor\Development\TestCPP\UE4Editor-TestCPP.lib"
+/INCLUDE:IMPLEMENT_MODULE_TestCPP

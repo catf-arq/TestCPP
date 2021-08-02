@@ -1,0 +1,2 @@
+C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Intermediate\Build\Win64\UE4Editor\Development\TestCPP\Definitions.TestCPP.h
+C:\Users\Carlos Torres\Documents\Unreal Projects\TestCPP\Source\TestCPP\TestCPP.h
